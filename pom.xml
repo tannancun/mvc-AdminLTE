@@ -17,9 +17,9 @@
 
 	<scm>
 		<tag>master</tag>
-		<url>git@github.com:tannancun/tannancun/mvc-AdminLTE.git</url>
-		<connection>scm:git:git@github.com:tannancun/tannancun/mvc-AdminLTE.git</connection>
-		<developerConnection>scm:git:git@github.com:tannancun/tannancun/mvc-AdminLTE.git</developerConnection>
+		<url>git@github.com:tannancun/mvc-AdminLTE.git</url>
+		<connection>scm:git:git@github.com:tannancun/mvc-AdminLTE.git</connection>
+		<developerConnection>scm:git:git@github.com:tannancun/mvc-AdminLTE.git</developerConnection>
 	</scm>
 	
 	<distributionManagement>
